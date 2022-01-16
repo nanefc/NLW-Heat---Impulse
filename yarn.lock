@@ -934,11 +934,14 @@ socket.io@*, socket.io@^4.3.2:
     socket.io-adapter "~2.3.2"
     socket.io-parser "~4.0.4"
 
+<<<<<<< HEAD
 "source-map-js@>=0.6.2 <2.0.0":
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/source-map-js/-/source-map-js-1.0.1.tgz#a1741c131e3c77d048252adfa24e23b908670caf"
   integrity sha512-4+TN2b3tqOCd/kaGRJ/sTYA0tR0mdXx26ipdolxcwtJVqEnqNYvlCAt1q3ypy4QMlYus+Zh34RNtYLoq2oQ4IA==
 
+=======
+>>>>>>> 4632fddde18233e47ab9d0f96227d27a460a0a6e
 source-map-support@^0.5.12, source-map-support@^0.5.17:
   version "0.5.20"
   resolved "https://registry.yarnpkg.com/source-map-support/-/source-map-support-0.5.20.tgz#12166089f8f5e5e8c56926b377633392dd2cb6c9"
